@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.       
-        </p>
+        <h1>
+          The Hygrothermograph       
+        </h1>
       </header>
       <Docs />
       <LineChart />
